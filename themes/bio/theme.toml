@@ -5,14 +5,14 @@ name = "bio"
 license = "MIT"
 licenselink = ""
 description = "Personal resume with social handles, skills inventory, work history and portfolio. Ported from StartBootstrap 'Resume' theme"
-homepage = "https://www.JasonAReeves.com"
+homepage = "https://jasonareeves.com"
 tags = ["portfolio","resume","responsive"]
 features = ["social","mobile","projects","responsive","qr-code"]
 min_version = "0.1"
 
 [author]
   name = "Jason Reeves"
-  homepage = "https://www.JasonAReeves.com"
+  homepage = "https://jasonareeves.com"
 
 
 # If porting an existing theme
