@@ -1,0 +1,95 @@
+[
+    {
+        "company":"Target Corporation",
+        "solutions":[
+            {
+            "solution":"Google Pub/Sub to Kafka topic",
+            "summary":"Docker Container in Kubernetes that subscribed to a Stackdriver export via Google Pub/Sub and placed in a Kafka topic.",
+            "skills":[ "Google Cloud Platform","Google Pub/Sub","Stackdriver","NGINX","MySQL","Wordpress"],
+            "tags":[ "Go","Slack","Chatops","Chatbots","Terraform","Kubernetes", 
+                "Cloud Security","Google Cloud Platform"]
+            },
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            }
+        ]
+    },
+    {
+        "company":"Fake 1",
+        "solutions":[
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            },
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            }
+        ]
+    },
+    {
+        "company":"Fake 2",
+        "solutions":[
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            },
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            }
+        ]
+    },
+    {
+        "company":"fake 3",
+        "solutions":[
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            },
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            }
+        ]
+    },
+    {
+        "company":"Fake 4",
+        "solutions":[
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            },
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            }
+        ]
+    },
+    {
+        "company":"Fake 5",
+        "solutions":[
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            },
+            {
+            "solution":"Google pub/sub to kafka connector",
+            "summary":"Architecting, engineering, and developing cloud security software solutions and micro services",
+            "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+            }
+        ]
+    }
+
+]

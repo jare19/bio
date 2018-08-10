@@ -1,0 +1,41 @@
+[
+  {
+    "grouping": "Core Concepts",
+    "skills": [
+      "Event Driven Automation","CI/CD","git","DevOps","agile","Cloud Security","Cloud Infrastructure",
+      "Containerization","Microservices" ]
+  },
+  {
+    "grouping": "Tools (advanced)",
+    "skills": [ "Slack","Terraform","Consul","Packer","GitHub","GitHub Enterprise","git","Jira","Waffle",
+      "Confluence","Postman","Glide","dep","govendor","Kafka Connect","Stackdriver","Venafi","Google Pub/Sub",
+      "Ansible","Vault","Fastly","Atom","Visual Studio Code","Shape","Drone.io","Jenkins","Artifactory",
+      "StackStorm","PowerCLI","Hugo","GitLab" ]
+  },
+  {
+    "grouping": "Tools (intermediate)",
+    "skills": [ "Spinnaker","Elastic Search", "Kibana", "Logstash","Kafka","Venafi","Ansible","Vault","Helm",
+      "Promethius","Shape","Chef" ]
+  },
+  {
+    "grouping": "Languages (advanced)",
+    "skills": [ "Go","json","yaml","markdown","bash","powershell","VCL","HCL","batch file scripting" ]
+  },
+  {
+    "grouping": "Languages (intermediate)",
+    "skills": [ "python","html","coffeescript","javascript","xml","VBScript","Windows Script Host","SQL","CSS" ]
+  },
+  {
+    "grouping": "Languages (beginner)",
+    "skills": [ "coffeescript","java","ruby","scala" ]
+  },
+  {
+    "grouping": "Operating Systems and Virtualization (advanced)",
+    "skills": [ "Kubernetes","VMware","Docker","Google Cloud Platform","Windows Server","Windows Desktop",
+      "OS X","macOS","Linux","Unix","Amazon Web Services" ]
+  },
+  {
+    "grouping": "Operating Systems and Virtualization (intermediate)",
+    "skills": [ "HyperV","LXC","LXD","OpenStack" ]
+  }
+]

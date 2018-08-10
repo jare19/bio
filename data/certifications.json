@@ -1,0 +1,13 @@
+[
+  {
+      "grouping":"Systems",
+      "certifications":[ "VCP5: VMware Certified Professional","Microsoft Certified IT Professional: Server Administrator on Windows Server 2008","Microsoft Certified Technology Specialist: Windows Server 2008 Network","Microsoft Certified Technology Specialist: Windows 7 and Office 2010, Deployment","Microsoft Certified Technology Specialist: Windows Server 2008 Active Directory Configuration"]
+  },{
+      "grouping":"Network",
+      "certifications":[ "Watchguard XCS 9.2 Certification","CompTIA Network+ Certified Technician"]
+  },
+  {
+      "grouping":"General",
+      "certifications":[ "CompTIA A+ Certified Technician"]
+  }
+]

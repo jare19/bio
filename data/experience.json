@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Sr. Engineer - Digital Security/Security Solutions",
+        "company":"Target Corporation",
+        "summary":"Part of an agile team responsible for developing and delivering security solutions for cloud infrastructure and in front of target.com, utilizing current open source solutions.",
+        "range":"2016 - Present"
+    },
+    {
+        "role":"Sr. Cloud Systems Engineer",
+        "company":"Digital River",
+        "summary":"VVMware suite SME, automating infrastructure and guest deployments.",
+        "range":"2012 - 2016"
+    },
+    {
+        "role":"Field Service Engineer",
+        "company":"Phoenix Technology Services [Element]",
+        "summary":"Solving any and all issues as a dedicated engineer for no less than 5 SMB clients at a time.",
+        "range":"2010 - 2012"
+    },
+    {
+        "role":"Network Administrator Intern",
+        "company":"Urban Ventures",
+        "summary":"End-user support and network administration for a variety of non-profit organizations and private highschool ",
+        "range":"2009 - 2010"
+    }
+]

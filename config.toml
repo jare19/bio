@@ -1,0 +1,42 @@
+baseURL = "http://JasonAReeves.com/"
+languageCode = "en-us"
+title = "Jason Reeves"
+theme = "bio"
+
+
+[params]
+    firstName = "Jason"
+    lastName = "Reeves"
+    address = "Victoria, MN"
+    phone = "612-239-3682"
+    resumeurl = "resume.html"
+    contactNote = "Senior Engineer - Security Solutions - Cloud Security/Digital Security"
+    profileImage = "img/smile.png"
+    email = "Jason.Reeves19@gmail.com"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = true
+    showExperience = true
+    showEducation = true
+    showCerts = true
+    showSolutions = false
+    showProSolutions = false
+
+    #showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/JasonReeves19/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/jare19/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/_Jeeves_?lang=en"
+
+# [params.google.analytics]
+#     trackerID = "XX-123446-00"

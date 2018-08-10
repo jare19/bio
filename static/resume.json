@@ -1,0 +1,284 @@
+{
+  "name": "Jason Reeves",
+  "info": {
+    "label": "Senior Engineer",
+    "brief": "Career growth by obtaining a software engineering and development role where I can also stay on top of new and emerging technologies while I further apply my technical education and experience in automating everything."
+  },
+  "contact": {
+    "email": "jason.reeves19@gmail.com",
+    "website": "http://JasonAReeves.com"
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2018-08-09T15:55:20.699Z"
+  },
+  "location": {
+    "city": "Victoria",
+    "region": "Minnesota",
+    "code": "55386"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Senior Engineer - Security Solutions - Cloud Security/Digital Security",
+        "employer": "Target Corporation",
+        "summary": "Part of an agile team responsible for developing and delivering security solutions for cloud infrastructure and in front of target.com, utilizing current open source solutions.",
+        "current": true,
+        "start": "2016",
+        "url": "https://corporate.target.com/",
+        "keywords": [],
+        "highlights": [
+          "Architecting and developing security solutions for Google Cloud Platform utilizing Kubernetes and CI/CD pipelines.",
+          "CDN/WAF/Edge Security Automation and integrations with Fastly using Terraform and custom go microservices.",
+          "Developed and delivered container layer scanning in the CI/CD pipeline as well as in production Kubernetes.",
+          "Architected, developed, and delivered a tool to isolate compromised containers in Google Compute Engine running on Target deployed Kubernetes clusters.",
+          "Lead and teach team members that need help with understanding and working with newer technologies and methodoligies.",
+          "Continuous investigation/integration of forward thinking and industry leading open source tools",
+          "Technical evangalist in regards to infrastructure as code as well as immutable deployments"
+        ]
+      },
+      {
+        "position": "Senior Cloud Systems Engineer",
+        "employer": "Digital River",
+        "summary": "VMware suite SME, automating infrastructure and guest deployments.",
+        "start": "2012",
+        "end": "2016",
+        "url": "https://www.digitalriver.com/company/",
+        "keywords": [],
+        "highlights": [
+          "VMware suite architecture, deployment, and management of environments supporting approximately 13,000+ guests and 650+ hosts.",
+          "Monitor, maintain, and deplyment of Windows AD DS, DNS, DHCP for private and public cloud infrastructures.",
+          "Private and public cloud infrastructure expansion and green-field architecture and deployment.",
+          "Automated Hardware and Software configuration and updates.",
+          "Provide escalated support for issues from the admin and operation teams.",
+          "Mentor, guide, and lead team members as the most senior team member.",
+          "Engineering efforts to continuously improve and build out the current and new environments.",
+          "Evaluating and engineering “cutting edge” technologies (open source and enterprise) to promote the “cattle“ over “pets” way of thinking.",
+          "Guest template build automation for Linux and Windows servers."
+        ]
+      },
+      {
+        "position": "Field Service Engineer",
+        "employer": "Phoenix Technology Solutions (now Element)",
+        "summary": "Solving any and all issues as a dedicated engineer for no less than 5 SMB clients at a time.",
+        "start": "2010",
+        "end": "2012",
+        "url": "https://www.ele-ment.com/",
+        "keywords": [],
+        "highlights": [
+          "Desktop/Network/Server Support for many different infrastructures.",
+          "Remote and on-site support, including SBS 03/08, Windows Server 03/08, Windows 7/XP.",
+          "Monitor and Maintain AD, DNS, DHCP, Group Policy, Exchange, and VMware.",
+          "Removal of Malware and Virus infections.",
+          "Rebuilding/upgrading Windows workstations.",
+          "Solving a wide variety of user related issues."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Microsoft",
+        "summary": "",
+        "area": "Server Administrator on Windows Server 2008",
+        "studyType": "Microsoft Certified IT Professional"
+      },
+      {
+        "institution": "VMware",
+        "summary": "",
+        "area": "VCP5",
+        "studyType": "VMware Certified Professional"
+      },
+      {
+        "institution": "Watchguard",
+        "summary": "",
+        "area": "9.2 Certified",
+        "studyType": "XCS"
+      },
+      {
+        "institution": "CompTIA",
+        "summary": "",
+        "area": "Certified Technician",
+        "studyType": "Network+"
+      },
+      {
+        "institution": "CompTIA",
+        "summary": "",
+        "area": "Certified Technician",
+        "studyType": "A+"
+      },
+      {
+        "institution": "Dunwoody College of Technology",
+        "start": "2008",
+        "end": "2010",
+        "summary": "",
+        "area": "Computer Networking",
+        "studyType": "Associate  of  Applied  Science"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Core Concepts",
+        "skills": [
+          "Event Driven Automation",
+          "CI/CD",
+          "git",
+          "DevOps",
+          "agile",
+          "Cloud Security",
+          "Cloud Infrastructure",
+          "Containerization",
+          "Microservices"
+        ]
+      },
+      {
+        "name": "Tools",
+        "level": "advanced",
+        "skills": [
+          "Slack",
+          "Terraform",
+          "Consul",
+          "Packer",
+          "GitHub",
+          "GitHub Enterprise",
+          "git",
+          "Jira",
+          "Waffle",
+          "Confluence",
+          "Postman",
+          "Glide",
+          "dep",
+          "govendor",
+          "Kafka Connect",
+          "Stackdriver",
+          "Venafi",
+          "Google Pub/Sub",
+          "Ansible",
+          "Vault",
+          "Fastly",
+          "Atom",
+          "Visual Studio Code",
+          "Shape",
+          "Drone.io",
+          "Jenkins",
+          "Artifactory",
+          "StackStorm",
+          "PowerCLI",
+          "Hugo",
+          "GitLab"
+        ]
+      },
+      {
+        "name": "Tools",
+        "level": "intermediate",
+        "skills": [
+          "Spinnaker",
+          "Elastic Search",
+          "Kibana",
+          "Logstash",
+          "Kafka",
+          "Venafi",
+          "Ansible",
+          "Vault",
+          "Helm",
+          "Promethius",
+          "Shape",
+          "Chef"
+        ]
+      },
+      {
+        "name": "Languages",
+        "level": "advanced",
+        "skills": [
+          "Go",
+          "json",
+          "yaml",
+          "markdown",
+          "bash",
+          "powershell",
+          "VCL",
+          "HCL",
+          "batch file scripting"
+        ]
+      },
+      {
+        "name": "Languages",
+        "level": "intermediate",
+        "skills": [
+          "python",
+          "html",
+          "coffeescript",
+          "javascript",
+          "xml",
+          "VBScript",
+          "Windows Script Host",
+          "SQL",
+          "CSS"
+        ]
+      },
+      {
+        "name": "Languages",
+        "level": "beginner",
+        "skills": [
+          "coffeescript",
+          "java",
+          "ruby",
+          "scala"
+        ]
+      },
+      {
+        "name": "Operating Systems and Virtualization",
+        "level": "advanced",
+        "skills": [
+          "Kubernetes",
+          "VMware",
+          "Docker",
+          "Google Cloud Platform",
+          "Windows Server",
+          "Windows Desktop",
+          "OS X",
+          "macOS",
+          "Linux",
+          "Unix",
+          "Amazon Web Services"
+        ]
+      },
+      {
+        "name": "Operating Systems and Virtualization",
+        "level": "intermediate",
+        "skills": [
+          "HyperV",
+          "LXC",
+          "LXD",
+          "OpenStack"
+        ]
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "https://twitter.com/_Jeeves_/"
+    },
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/JasonReeves19/"
+    },
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/jare19/"
+    },
+    {
+      "label": "Docker",
+      "network": "Docker",
+      "url": "https://hub.docker.com/u/jare19/"
+    }
+  ]
+}
